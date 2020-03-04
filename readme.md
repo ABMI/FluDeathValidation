@@ -29,7 +29,7 @@ Getting Started
   ```r
   # If not building locally uncomment and run:
 #install.packages("devtools")
-#devtools::install_github("OHDSI/StudyProtocolSandbox/FluDeathValidation")
+#devtools::install_github("abmi/FluDeathValidation")
 
 library(FluDeathValidation)
 
